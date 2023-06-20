@@ -33,7 +33,7 @@ https://zwitterbeta.web.app/
 - Clone the repo
 
 ```
-git clone https://github.com/JJerrychan/Zwitter
+git clone https://github.com/Shaohua-Bi/Zwitter
 ```
 
 - Initialization
@@ -79,26 +79,3 @@ create or join chatroom.
 For chatroom, authenticated users can create a room after setting room name and room password. Other user will be able
 to view the list of room in chatroom page. They can join the room after verifying password of room. In the chatroom all
 the users can communicate with each other.
-
-## Resource
-
-- AWS s3 Images Fold URL: https://zwitter11.s3.amazonaws.com/image/
-- S3 console panle: https://woio.signin.aws.amazon.com/console
-- S3 console IAM user name: zwitter
-- S3 console password: Zwitter123
-
-## Authors
-
-- [Junjie Chen](https://github.com/JJerrychan)
-
-- Xiangyu Zhou
-
-- Haolei Wang
-
-- Yuankai Ma
-
-- Ming Tang
-
-## GitHub Link
-
-- https://github.com/JJerrychan/Zwitter
