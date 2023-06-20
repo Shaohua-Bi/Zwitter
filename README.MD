@@ -1,4 +1,4 @@
-# CS-554 Final Project: Zwitter
+Zwitter
 
 - In modern society, almost no one can live without using social media. Social media has been integrated into our daily
   lives, with 59% of the world's population using social media for an average of 2 hours and 29 minutes per day (by
